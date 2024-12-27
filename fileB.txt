@@ -1,0 +1,1 @@
+git status-to check whether the changes are commited or not
